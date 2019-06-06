@@ -8,6 +8,7 @@ int main ()
 	b = 2;
 
 	printf ("Hello World!!!");
+	printf ("test wrong commit message\n");
 
 	return 0;
 }
